@@ -2,7 +2,23 @@
 An AI-powered scholarship strategist for Malaysian students. Built with JamAI Base &amp; Streamlit
 
 
-<img width="1901" height="860" alt="image" src="https://github.com/user-attachments/assets/2c1ac29c-7a45-4317-825a-4d80e5db574c" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/077dc8b9-c9ec-4639-ad01-8188b79264c9" width="500" />
+        <br />
+        <b>📊 Scholarship Dashboard</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/948c1e1e-bd56-40c6-bbce-e900b1665b7b" width="500" />
+        <br />
+        <b>✍️ Essay Assistant</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
