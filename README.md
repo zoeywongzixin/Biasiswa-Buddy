@@ -13,11 +13,8 @@ An AI-powered scholarship strategist for Malaysian students. Built with JamAI Ba
 </div>
 
 ---
-
 ## 🎥 Demo Video
-[![Watch the video](https://youtu.be/pSTqQ7U6_t0)
-
-Click the image above to watch the demo!
+https://youtu.be/pSTqQ7U6_t0
 ---
 
 ## Table of Contents
