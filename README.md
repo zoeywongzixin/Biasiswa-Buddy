@@ -1,8 +1,10 @@
 # 🎓 Biasiswa-Buddy
 An AI-powered scholarship strategist for Malaysian students. Built with JamAI Base &amp; Streamlit
 
+
 <img width="1901" height="860" alt="image" src="https://github.com/user-attachments/assets/2c1ac29c-7a45-4317-825a-4d80e5db574c" />
 
+---
 
 ## Table of Contents
 - [🌟 The Problem](#-the-problem)
@@ -10,6 +12,7 @@ An AI-powered scholarship strategist for Malaysian students. Built with JamAI Ba
 - [🛠️ Tech Stack](#️-tech-stack)
 - [💻 Installation & Setup Guide](#-installation--setup-guide)
 
+---
   
 ## 🌟 The Problem
 
