@@ -3,22 +3,14 @@ An AI-powered scholarship strategist for Malaysian students. Built with JamAI Ba
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/077dc8b9-c9ec-4639-ad01-8188b79264c9" width="500" />
-        <br />
-        <b>📊 Scholarship Dashboard</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/948c1e1e-bd56-40c6-bbce-e900b1665b7b" width="500" />
-        <br />
-        <b>✍️ Essay Assistant</b>
-      </td>
-    </tr>
-  </table>
+  <h3>📊 1. Smart Scholarship Dashboard</h3>
+  <p><i>Automatically matches scholarships based on your SPM results and state.</i></p>
+  <img src="https://github.com/user-attachments/assets/077dc8b9-c9ec-4639-ad01-8188b79264c9" width="95%" />
+  
+  <br/><br/> <h3>✍️ 2. AI Essay Assistant</h3>
+  <p><i>Generates personalized personal statement drafts based on your achievements.</i></p>
+  <img src="https://github.com/user-attachments/assets/948c1e1e-bd56-40c6-bbce-e900b1665b7b" width="95%" />
 </div>
-
 
 ---
 
