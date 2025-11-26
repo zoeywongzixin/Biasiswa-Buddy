@@ -14,6 +14,12 @@ An AI-powered scholarship strategist for Malaysian students. Built with JamAI Ba
 
 ---
 
+## 🎥 Demo Video
+[![Watch the video](https://youtu.be/pSTqQ7U6_t0)
+
+Click the image above to watch the demo!
+---
+
 ## Table of Contents
 - [🌟 The Problem](#-the-problem)
 - [🚀 The Solution](#-the-solution-biasiswa-buddy)
