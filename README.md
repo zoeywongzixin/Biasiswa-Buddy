@@ -69,7 +69,7 @@ Ensure you have **Python 3.13** (or compatible version) installed.
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/zoeywongzixin/Biasiswa-Buddy.git
-cd Siswa-Buddy
+cd Biasiswa-Buddy
 ```
 
 ### 3. Setup JamAI Backend 
