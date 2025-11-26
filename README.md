@@ -75,15 +75,15 @@ cd Biasiswa-Buddy
 ### 3. Setup JamAI Backend 
 You need to import our pre-configured "Brain" (Tables, Prompts & Data) into your JamAI account.
 
-1. Download the file biasiswabuddy.parquet in this repository (folder).
+1. Download the file **biasiswabuddy.parquet** in this repository (folder jamaibase).
 2. Log in to JamAI Base.
-3. Click "Import Project"
+3. Click "Import Project".
 4. Upload the biasiswabuddy.parquet file.
 5. Once imported, go to Settings > API Keys to generate a new Personal Access Token (PAT).
 6. Copy your New Project ID (found in the URL or Project Settings) and your PAT.
 
 ### 4. ⚙️ Configure Credentials
-Open app.py in your code editor (VS Code, etc.) and update Lines 10 & 11:
+Open **app.py** in your code editor (VS Code, etc.) and update Lines 10 & 11:
 
 ```python
 # app.py
