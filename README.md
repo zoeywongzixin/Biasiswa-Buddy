@@ -27,16 +27,16 @@ https://youtu.be/pSTqQ7U6_t0
   
 ## 🌟 The Problem
 
-- **Scattered Information:** Scholarship details are spread across many websites. Students must search dozens of pages.
-- **Wasted Time:** The process is long, confusing, and filled with irrelevant options.
-- **Missed Deadlines:** Many students lose opportunities because application windows close before they find them.
-- **Financial Stress:** Difficulty sourcing financial aid causes unnecessary anxiety.
+- **Scattered Information:** Scholarship details are **not in one place**. Students must check dozens of different websites
+- **Wasted Time:** The search process is **long and confusing**, leading students to waste time filtering irrelevant options.
+- **Missed Deadlines:** Many students **lose opportunities** because application windows close before they find them.
+- **Financial Stress:** Difficulty finding financial aid creates **unnecessary worry and stress**.
 
 ---
 
 ## 🚀 The Solution: *Biasiswa Buddy*
 
-**Biasiswa Buddy** is more than a search tool — it is an **AI Scholarship Strategist** designed to help Malaysian students secure funding effortlessly.
+**Biasiswa Buddy** is more than a search tool, it is an **AI Scholarship Strategist** designed to help Malaysian students secure funding effortlessly.
 
 ### What It Does:
 1. **All Scholarships in One Place:** Centralizes every major Malaysian scholarship.
